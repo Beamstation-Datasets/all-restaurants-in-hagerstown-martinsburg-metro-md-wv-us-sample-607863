@@ -1,6 +1,6 @@
 # All Restaurants in Hagerstown-Martinsburg (Metro), MD-WV, US
 
-> Free BeamStation sample export with 57 rows and masked direct-contact fields.
+> Free BeamStation sample export with 63 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `607863` |
 | Location | Hagerstown-Martinsburg, MD-WV |
 | Category | Restaurants |
-| Full dataset size | 571 records |
-| Free sample size | 57 records (9.98%) |
-| Last export | 2026-04-28T13:09:27.710175+00:00 |
+| Full dataset size | 637 records |
+| Free sample size | 63 records (9.89%) |
+| Last export | 2026-05-05T23:44:58.158487+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hagerstown-martinsburg-metro-md-wv-us-sample-607863/releases/download/sample-latest/beamstation_607863_restaurants-us-hagerstownmartinsburgmdwv_SAMPLE_DIST.csv) |
 
 ## What is in this sample

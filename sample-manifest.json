@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3ad5e636-11c1-410e-83dd-063e0a794893",
+  "export_job_id": "0ebeb7f9-4bf2-4201-a471-db4c18bed355",
   "id_short": 607863,
-  "published_at": "2026-04-28T19:45:46Z",
+  "published_at": "2026-05-06T07:15:47Z",
   "repo_name": "all-restaurants-in-hagerstown-martinsburg-metro-md-wv-us-sample-607863",
   "sample_asset_name": "beamstation_607863_restaurants-us-hagerstownmartinsburgmdwv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/607863/beamstation_607863_restaurants-us-hagerstownmartinsburgmdwv_SAMPLE_DIST.csv",
-  "sample_records": 57,
-  "sample_sha256": "ed53832eab279ab5cbb993525b52fb37d16b8cbfb4997599242b9e0d5316cc66",
-  "sample_size_bytes": 210456,
-  "total_records": 571
+  "sample_records": 63,
+  "sample_sha256": "81ba68490c3c91eca9da84658d5955c718e84d2117bcf16511d6738e794f309b",
+  "sample_size_bytes": 241740,
+  "total_records": 637
 }
